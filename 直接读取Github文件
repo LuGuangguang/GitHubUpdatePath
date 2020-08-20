@@ -1,0 +1,9 @@
+ github提供的读取资源文件格式如下：
+	
+https://raw.githubusercontent.com/:owner/:repo/master/:path
+
+
+如当前项目  https://github.com/LuGuangguang/GitHubUpdatePath/blob/master/UpdateInfo.xml   
+的直接读取资源地址为
+https://raw.githubusercontent.com/LuGuangguang/GitHubUpdatePath/master/UpdateInfo.xml
+

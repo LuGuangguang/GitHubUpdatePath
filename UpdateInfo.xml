@@ -5,5 +5,5 @@
   <changelog>
     https://www.baidu.com
   </changelog>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
